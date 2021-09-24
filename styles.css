@@ -1,6 +1,11 @@
 @font-face {
-  font-family: bolditalic;
+  font-family: heavyoblique;
   src: url(fonts/FivoSans-Heavy-Oblique.otf);
+}
+
+@font-face {
+  font-family: mediumoblique;
+  src: url(fonts/FivoSans-Medium-Oblique.otf);
 }
 
 @font-face {
@@ -13,10 +18,10 @@ html {
   background-color: #fdfdfd;
 }
 
-h1 { font-family: bolditalic;
+h1 { font-family: heavyoblique;
   padding: 32px; }
 
-summary { font-family: bolditalic; }
+summary { font-family: mediumoblique; }
 
 td { padding: 8px 64px; }
   

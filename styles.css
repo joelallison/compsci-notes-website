@@ -1,7 +1,11 @@
 @font-face {
   font-family: bolditalic;
-  src: url(fonts/okta_neue_ultralight.otf);
+  src: url(fonts/okta_neue_blackitalic.otf);
 }
+
+@font-face {
+  font-family: main;
+  src: url(fonts/);
 
 html {
   font-family: main;

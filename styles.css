@@ -6,6 +6,7 @@
 @font-face {
   font-family: main;
   src: url(fonts/FivoSans-Regular.otf);
+}
 
 html {
   font-family: main;

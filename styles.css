@@ -4,3 +4,8 @@ html {
   font-family: 'Poppins', sans-serif;
   background-color: #FAFAFA;
 }
+
+h1 { padding: 32px; }
+
+td { padding: 8px; }
+  

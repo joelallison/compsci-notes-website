@@ -1,11 +1,11 @@
 @font-face {
   font-family: bolditalic;
-  src: url(fonts/okta_neue_blackitalic.otf);
+  src: url(fonts/FivoSans-Heavy-Oblique.otf);
 }
 
 @font-face {
   font-family: main;
-  src: url(fonts/);
+  src: url(fonts/FivoSans-Regular.otf);
 
 html {
   font-family: main;
